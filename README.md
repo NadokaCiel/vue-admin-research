@@ -1,6 +1,8 @@
 # vue-admin模板介绍
 
-## 1.vue-element-admin
+## 一、开源项目
+
+### 1.vue-element-admin
 UI：elementUI
 
 项目主页：https://github.com/PanJiaChen/vue-element-admin
@@ -22,7 +24,7 @@ License：MIT
 
 
 
-## 2.vue-admin-template
+### 2.vue-admin-template
 UI：elementUI
 
 项目主页：https://github.com/PanJiaChen/vue-admin-template
@@ -41,7 +43,7 @@ License：MIT
 
 
 
-## 3.vue-admin
+### 3.vue-admin
 UI：bulma
 
 项目主页：https://github.com/vue-bulma/vue-admin
@@ -59,7 +61,7 @@ License：MIT
 
 
 
-## 4.vue2-manage
+### 4.vue2-manage
 vue2 + vuex + vue-router + webpack + ES6/7 + less + element-ui
 
 项目主页：https://github.com/bailicangdu/vue2-manage
@@ -75,7 +77,7 @@ License：GPL （不适用于企业内部二次开发的场景）
 
 
 
-## 5.copilot
+### 5.copilot
 UI：Bootstrap 3
 
 项目主页：https://github.com/misterGF/CoPilot
@@ -93,7 +95,7 @@ License：MIT
 
 
 
-## 6.vuestic-admin
+### 6.vuestic-admin
 UI：Bootstrap 4
 
 项目主页：https://github.com/epicmaxco/vuestic-admin
@@ -107,3 +109,47 @@ UI：Bootstrap 4
 仅支持ie11+，图形组件使用了不太熟悉的chart.js
 
 License：MIT
+
+
+
+
+## 二、商业项目
+
+### 1.CoreUI PRO for Vue
+UI：Bootstrap 4
+
+官方网站：https://coreui.io/vue/
+
+项目主页（免费版）：https://github.com/coreui/coreui-free-vue-admin-template
+
+预览：https://coreui.io/vue/demo/#/dashboard
+
+文档：https://coreui.io/docs/getting-started/introduction/
+
+组件文档：https://bootstrap-vue.js.org/docs/
+
+响应式布局，组件齐全，UI干净朴素。
+
+专业版较免费版多了一些组件或扩展功能。比较注重全，有些忽视组件的深度，常用业务逻辑、功能和组件接口偏少。
+
+
+
+
+### 2.vue-material-dashboard
+UI：ElementUI
+
+项目主页（免费版）：https://www.creative-tim.com/product/vue-material-dashboard
+
+项目主页（商业版）：https://www.creative-tim.com/product/vue-material-dashboard-pro
+
+预览（免费版）：https://demos.creative-tim.com/vue-material-dashboard/#/dashboard
+
+预览（商业版）：https://demos.creative-tim.com/vue-material-dashboard-pro/#/dashboard
+
+文档（免费版）：https://demos.creative-tim.com/vue-material-dashboard-pro/documentation/
+
+文档（商业版）：https://demos.creative-tim.com/vue-material-dashboard/documentation/
+
+响应式布局，组件齐全，UI比较个性化。自带表单验证。
+
+文档略显简略，图表组件使用Chartist.js，表格搜索有一些小问题
