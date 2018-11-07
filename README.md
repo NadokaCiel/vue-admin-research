@@ -4,7 +4,9 @@
 UI：elementUI
 
 项目主页：https://github.com/PanJiaChen/vue-element-admin
+
 预览：https://panjiachen.github.io/vue-element-admin/#/dashboard
+
 文档：https://panjiachen.github.io/vue-element-admin-site/zh/guide/
 
 功能强大，文档详实，提供了常见后台业务模型的解决方案，满足产品的技术需求。
@@ -21,7 +23,9 @@ issue区相对活跃，可以寻求技术支持
 UI：elementUI
 
 项目主页：https://github.com/PanJiaChen/vue-admin-template
+
 预览：https://panjiachen.github.io/vue-admin-template/#/dashboard
+
 文档：https://github.com/PanJiaChen/vue-admin-template/blob/master/README-zh.md
 
 极简的后台管理框架，它只包含Element UI & axios & iconfont & permission control & lint，这些搭建后台必要的东西。
@@ -35,7 +39,9 @@ UI：elementUI
 UI：bulma
 
 项目主页：https://github.com/vue-bulma/vue-admin
+
 预览：https://admin.vuebulma.com/#/dashboard
+
 文档：https://bulma.io/documentation/
 
 UI风格比较朴素，内置富文本编辑，支持多种图表展示
@@ -47,6 +53,7 @@ UI风格比较朴素，内置富文本编辑，支持多种图表展示
 vue2 + vuex + vue-router + webpack + ES6/7 + less + element-ui
 
 项目主页：https://github.com/bailicangdu/vue2-manage
+
 预览：https://cangdu.org/manage/#/manage
 
 常规的后台管理系统，常规的功能展示，内置图表和富文本
