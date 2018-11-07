@@ -146,9 +146,9 @@ UI：ElementUI
 
 预览（商业版）：https://demos.creative-tim.com/vue-material-dashboard-pro/#/dashboard
 
-文档（免费版）：https://demos.creative-tim.com/vue-material-dashboard-pro/documentation/
+文档（免费版）：https://demos.creative-tim.com/vue-material-dashboard/documentation/
 
-文档（商业版）：https://demos.creative-tim.com/vue-material-dashboard/documentation/
+文档（商业版）：https://demos.creative-tim.com/vue-material-dashboard-pro/documentation/
 
 响应式布局，组件齐全，UI比较个性化。自带表单验证。
 
